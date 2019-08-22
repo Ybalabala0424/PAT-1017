@@ -1,0 +1,6 @@
+﻿  1016.cpp
+D:\Zhang\c++\PAT\1016\1016.cpp(35,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Zhang\c++\PAT\1016\1016.cpp(113,20): warning C4018:  “<=”: 有符号/无符号不匹配
+D:\Zhang\c++\PAT\1016\1016.cpp(117,21): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Zhang\c++\PAT\1016\1016.cpp(126,15): warning C4244:  “初始化”: 从“int”转换到“float”，可能丢失数据
+  1016.vcxproj -> D:\Zhang\c++\PAT\1016\Debug\1016.exe

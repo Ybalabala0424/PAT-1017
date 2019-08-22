@@ -1,0 +1,4 @@
+﻿  1015.cpp
+D:\Zhang\c++\PAT\1015\1015.cpp(52,31): warning C4244:  “+=”: 从“double”转换到“int”，可能丢失数据
+D:\Zhang\c++\PAT\1015\1015.cpp(32,9): warning C4101:  “c”: 未引用的局部变量
+  1015.vcxproj -> D:\Zhang\c++\PAT\1015\Debug\1015.exe
