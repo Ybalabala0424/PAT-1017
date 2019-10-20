@@ -1,0 +1,4 @@
+﻿  n皇后问题.cpp
+D:\Zhang\c++\PAT\DFS入门\n皇后问题\n皇后问题.cpp(103,21): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Zhang\c++\PAT\DFS入门\n皇后问题\n皇后问题.cpp(105,22): warning C4018:  “<”: 有符号/无符号不匹配
+  n皇后问题.vcxproj -> D:\Zhang\c++\PAT\DFS入门\n皇后问题\Debug\n皇后问题.exe
