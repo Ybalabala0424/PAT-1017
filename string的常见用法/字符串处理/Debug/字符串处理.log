@@ -1,0 +1,4 @@
+﻿  字符串处理.cpp
+D:\Zhang\c++\PAT\string的常见用法\字符串处理\字符串处理.cpp(18,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Zhang\c++\PAT\string的常见用法\字符串处理\字符串处理.cpp(45,20): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
+  字符串处理.vcxproj -> D:\Zhang\c++\PAT\string的常见用法\字符串处理\Debug\字符串处理.exe

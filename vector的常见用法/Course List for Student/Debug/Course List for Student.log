@@ -1,0 +1,5 @@
+﻿  Course List for Student.cpp
+D:\Zhang\c++\PAT\vector的常见用法\Course List for Student\Course List for Student.cpp(18,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Zhang\c++\PAT\vector的常见用法\Course List for Student\Course List for Student.cpp(78,22): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Zhang\c++\PAT\vector的常见用法\Course List for Student\Course List for Student.cpp(30): warning C4715:  “searchIndex”: 不是所有的控件路径都返回值
+  Course List for Student.vcxproj -> D:\Zhang\c++\PAT\vector的常见用法\Course List for Student\Debug\Course List for Student.exe
